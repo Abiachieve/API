@@ -11,7 +11,7 @@ nav{
     margin: 0;
     display: flex;
     justify-content: space-between; 
-    width: 1134px;
+    width: 1330px;
     top: 0;
     padding: 36px 0;
     z-index: 100;
@@ -19,7 +19,7 @@ nav{
     color: white;
     font-size: 24px;
     font-family: poppins;
-    padding-left: 10px;
+    padding-left: 30px;
 }
 .card{
     margin-top: 30px;
